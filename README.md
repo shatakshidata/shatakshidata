@@ -1,7 +1,3 @@
-Here's a sample README file for your GitHub portfolio based on the details from your resume:
-
----
-
 # Shatakshi Bhatnagar - Data Scientist | Business Analyst | Marketing Analytics
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-shatakshibhatnagar-blue)](https://www.linkedin.com/in/shatakshibhatnagar/) 
