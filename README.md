@@ -38,22 +38,26 @@ I have hands-on experience in building machine learning models, data visualizati
 - Generated synthetic data through LLM model that mimics real world data for visualization, built a Streamlit app that takes input parameter to change data; worked on a multiagent LLM model to create different versions of data which forms a business use-case
 
 ### Business Analyst | **Darwinbox** | India
-- Built a predictive model with 84% accuracy to visualize churn risks.
-- Developed marketing strategies that increased conversions by 18% using CRO techniques and tools like GA4, Semrush, and HubSpot.
-- Created time-series forecasting models with 87% accuracy.
+- Analysed data from the largest HR primary research study in APAC, involving 1,200 HR professionals, by cleaning, processing, and using Excel, SQL and Power BI to generate insights on 2024 HR and workplace trends.
+- Developed a predictive model for customer churn risk %, including data cleaning, processing, and creating a dashboard 
+- Implemented model that Predicted Pipeline with 87% accuracy and improved conversions by 12% through Lead priority model
+- Led Marketing Operations teams and analysed efficiency of multiple channels, increasing conversions by 18% through CRO strategies, advanced mark-tech tools like GA4, Hotjar, SEMrush and optimized budget allocation
+- Built and optimized 100+ automated workflows on HubSpot, analysed and implemented 20+ automation tools for the team
 
 ### [Marketing Analyst | **Tata Metaliks** | India](https://github.com/shatakshidata/revenueforecast)
-- Created a price forecasting model with 92% accuracy using Python’s Random Forest, helping the sales team with strategic insights.
-- Developed automated Power BI reports for SKU updates, enabling faster business decisions.
+- Developed Price Forecasting in Python using Random Forest on Sales Order data, providing actionable insights for the team
+- Implemented a Power BI dashboard for fast-selling SKU analysis, enabling data-driven business decisions 
+- Cleaned and visualized Pre-Enquiry data to improve lead quality for the Sales Team, helping them with Lead priority 
+- Executed digital marketing strategies (SEO, backlinking, keyword analysis), increasing web traffic by 25%, and launched LinkedIn and Google Ad campaigns, boosting social media followers by 200% and generating MQLs
 
 ---
 
 ## Notable Projects
 
-### Blockchain Analytics and Token Insights Using ETL Processes
+### [Blockchain Analytics and Token Insights Using ETL Processes](https://github.com/shatakshidata/knimeETL) and [Dashboards for Blockchain Insights with Dune](https://github.com/shatakshidata/blockchain_analytics)
 - Analyzed BONK transactions using MongoDB, KNIME, and Dune Analytics, leveraging ETL and blockchain analytics to uncover trading trends and wallet activity while strengthening skills in data wrangling and visualization
 
-### Retail Analytics and Strategy Insights: A Multi-Dimensional Analysis of Amazon, Walmart, and Costco 
+### [Retail Analytics and Strategy Insights: A Multi-Dimensional Analysis of Amazon, Walmart, and Costco](https://github.com/shatakshidata/wolfram_retailanalysis)
 - Analyzed how retail giants leverage search trends, website content, and customer sentiment to shape brand strategies, correlate with stock performance, and optimize outcomes during peak retail events on Wolfram Notebook
 
 ### Online Food Delivery Apps: Behavior & Perception
