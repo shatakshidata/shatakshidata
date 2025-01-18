@@ -54,17 +54,27 @@ I have hands-on experience in building machine learning models, data visualizati
 
 ## Notable Projects
 
-### [Blockchain Analytics and Token Insights Using ETL Processes](https://github.com/shatakshidata/knimeETL) && [Dashboards for Blockchain Insights](https://github.com/shatakshidata/blockchain_analytics)
+### [Blockchain Analytics and Token Insights Using ETL Processes](https://github.com/shatakshidata/knimeETL) and [Dashboards for Blockchain Insights](https://github.com/shatakshidata/blockchain_analytics)
 - Analyzed BONK transactions using MongoDB, KNIME, and Dune Analytics, leveraging ETL and blockchain analytics to uncover trading trends and wallet activity while strengthening skills in data wrangling and visualization
 
 ### [Retail Analytics and Strategy Insights: A Multi-Dimensional Analysis of Amazon, Walmart, and Costco](https://github.com/shatakshidata/wolfram_retailanalysis)
 - Analyzed how retail giants leverage search trends, website content, and customer sentiment to shape brand strategies, correlate with stock performance, and optimize outcomes during peak retail events on Wolfram Notebook
 
-### Online Food Delivery Apps: Behavior & Perception
-- Analyzed consumer behavior using Python and SPSS with ANOVA tests.
+### [Analysing restaurant categories, locations, and pricing strategies based on Yelp data](https://github.com/shatakshidata/yelp_data_analysis)
+- This project analyzes the Yelp dataset to extract insights about businesses, reviews, and user behaviors. Using Python and Pandas, the project processes large datasets on Azure efficiently by leveraging chunk processing and memory optimization techniques
 
-### Healthcare Industry Analysis: Website & Twitter Data
+### Online Food Delivery Apps: Behavior & Perception
+- Conducted Primary Market Research to understand people food ordering habits and analyzed consumer behavior using Python and SPSS with ANOVA test
+
+### [Healthcare Industry Analysis: Website & Twitter Data](https://github.com/shatakshidata/healthcare_socialmedia_topic_analysis)
 - Utilized Python for web scraping and Tableau for data visualization to analyze digital marketing metrics in the healthcare sector.
+
+---
+
+## Volunteering
+
+### [Creating interative notebooks for learning concepts of Data Storytelling](https://github.com/shatakshidata/datastorytelling)
+Worked on creating knowledge graphs and interactive notebooks with micro-simulations for underprivileged students
 
 ---
 
