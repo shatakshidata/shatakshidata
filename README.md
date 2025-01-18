@@ -42,7 +42,7 @@ I have hands-on experience in building machine learning models, data visualizati
 - Developed marketing strategies that increased conversions by 18% using CRO techniques and tools like GA4, Semrush, and HubSpot.
 - Created time-series forecasting models with 87% accuracy.
 
-### Marketing Analyst | **Tata Metaliks** | India
+### [Marketing Analyst | **Tata Metaliks** | India](https://github.com/shatakshidata/revenueforecast)
 - Created a price forecasting model with 92% accuracy using Python’s Random Forest, helping the sales team with strategic insights.
 - Developed automated Power BI reports for SKU updates, enabling faster business decisions.
 
