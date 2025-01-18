@@ -47,6 +47,12 @@ I have hands-on experience in building machine learning models, data visualizati
 
 ## Notable Projects
 
+### Blockchain Analytics and Token Insights Using ETL Processes
+- Analyzed BONK transactions using MongoDB, KNIME, and Dune Analytics, leveraging ETL and blockchain analytics to uncover trading trends and wallet activity while strengthening skills in data wrangling and visualization
+
+### Retail Analytics and Strategy Insights: A Multi-Dimensional Analysis of Amazon, Walmart, and Costco 
+- Analyzed how retail giants leverage search trends, website content, and customer sentiment to shape brand strategies, correlate with stock performance, and optimize outcomes during peak retail events on Wolfram Notebook
+
 ### Online Food Delivery Apps: Behavior & Perception
 - Analyzed consumer behavior using Python and SPSS with ANOVA tests.
 
