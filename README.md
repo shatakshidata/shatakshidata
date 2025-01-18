@@ -54,7 +54,7 @@ I have hands-on experience in building machine learning models, data visualizati
 
 ## Notable Projects
 
-### [Blockchain Analytics and Token Insights Using ETL Processes](https://github.com/shatakshidata/knimeETL) and [Dashboards for Blockchain Insights with Dune](https://github.com/shatakshidata/blockchain_analytics)
+### [Blockchain Analytics and Token Insights Using ETL Processes](https://github.com/shatakshidata/knimeETL) && [Dashboards for Blockchain Insights](https://github.com/shatakshidata/blockchain_analytics)
 - Analyzed BONK transactions using MongoDB, KNIME, and Dune Analytics, leveraging ETL and blockchain analytics to uncover trading trends and wallet activity while strengthening skills in data wrangling and visualization
 
 ### [Retail Analytics and Strategy Insights: A Multi-Dimensional Analysis of Amazon, Walmart, and Costco](https://github.com/shatakshidata/wolfram_retailanalysis)
