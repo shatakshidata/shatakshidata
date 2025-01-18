@@ -31,10 +31,10 @@ I have hands-on experience in building machine learning models, data visualizati
 
 ## Experience
 
-### Data Scientist Intern | **Seventh Sense Consulting** | USA
+### [Data Scientist Intern | **Seventh Sense Consulting** | USA](https://github.com/shatakshidata/aiRecruitment)
 - Developing an AI-powered tool for automating candidate sourcing using LLM and ML models, saving 20+ hours per project.
 
-### [Data Scientist Intern | **Data Science Research Services** | USA](https://github.com/shatakshidata/aiRecruitment)
+### [Data Scientist Intern | **Data Science Research Services** | USA](https://github.com/shatakshidata/datagenerator)
 - Generated synthetic data through LLM model that mimics real world data for visualization, built a Streamlit app that takes input parameter to change data; worked on a multiagent LLM model to create different versions of data which forms a business use-case
 
 ### Business Analyst | **Darwinbox** | India
