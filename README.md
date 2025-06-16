@@ -31,7 +31,7 @@ I have hands-on experience in building machine learning models, data visualizati
 
 ## Experience
 ### Data Science Intern | **Bosch** | USA
-- Engineered a knowledge graph combining LLMs & embeddings, boosting retrieval accuracy by 40% for AI-powered search systems. Integrated Neo4j graph data with Azure Open AI API for semantic search refinement and contextual error flagging.
+- Engineered a knowledge graph combining LLMs & embeddings, boosting retrieval accuracy by 40% for AI-powered search systems. Integrated Neo4j graph data with LLM for semantic search refinement and contextual error flagging.
 
 ### [Data Scientist Intern | **Seventh Sense Consulting** | USA](https://github.com/shatakshidata/aiRecruitment)
 - Developing an AI-powered tool for automating candidate sourcing using LLM and ML models, saving 20+ hours per project.
